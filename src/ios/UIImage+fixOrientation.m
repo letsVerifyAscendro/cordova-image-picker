@@ -1,3 +1,5 @@
+#import "UIImage+fixOrientation.h"
+
 @implementation UIImage (fixOrientation)
 
 - (UIImage *)fixOrientation {
